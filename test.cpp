@@ -71,10 +71,10 @@ int main()
 	Function	:	what_is_word
 	Arguments	:	NULL
 	Return		:	Cases present
-					1 = Seat Number				F120220001
-					2 = Name (Self / Mother)	AARTI MUNDEL
+					1 = Seat Number				FXXXXXXXXX
+					2 = Name (Self / Mother)		XYZ
 					3 = Subject Code			107001
-					4 = Marks					100,--
+					4 = Marks				100,--
 					5 = Delimiter				..........
 					0 = Others
 */
